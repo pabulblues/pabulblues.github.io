@@ -10,7 +10,7 @@ redirect_from:
 ### **[Explainability in Graph Neural Networks for Jet Tagging - IIT Kanpur](https://github.com/pabulblues/Explainability-in-GNN-for-Jet-Tagging.git)** 
 *2026 Annual HEP Conference IITK, Manuscript under preparation*
 
-A GNN-based jet-tagging classifier was developed and combined with explainable AI tools such as GNNExplainer and Shapley values to examine how the model makes its decisions. This work showed that high-performing models do not need to remain black boxes, and that their predictions can stay physically consistent while revealing the jet substructure features they learn.
+I worked on developing GNN-based jet-tagging classifier and combined it with explainable AI tools such as GNNExplainer and Shapley values to examine how the model makes its decisions. This work showed that high-performing models do not need to remain black boxes, and that their predictions can stay physically consistent while revealing the jet substructure features they learn.
 
 
 ### **[Knowledge Distillation in Super-Resolution – Brown University](https://github.com/pabulblues/Super-Resolution-using-Knowledge-Distillation.git)**  
