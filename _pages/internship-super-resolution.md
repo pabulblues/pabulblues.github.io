@@ -12,7 +12,7 @@ author_profile: true
 
 ## Abstract
 
-*Coming soon.*
+Deep learning models for high-energy physics face a trade-off between accuracy and computational cost, particularly when processing high-resolution jet images at scale. We explore the use of super-resolution and knowledge distillation to bridge this gap: a high-resolution teacher network is trained on full-detail jet images, and its knowledge is distilled into a lightweight student model that operates on low-resolution inputs upsampled via ESRGAN. This approach allows the student to recover fine-grained jet substructure features without the cost of processing high-resolution data directly. We design and evaluate CNN-based architectures across multiple resolution settings and construct multi-resolution datasets to benchmark the distillation pipeline. Our results demonstrate that knowledge distillation with super-resolution upsampling can maintain competitive classification performance while significantly reducing model complexity, offering a practical path toward scalable jet tagging on large physics datasets.
 
 ---
 
