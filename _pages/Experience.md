@@ -7,17 +7,17 @@ redirect_from:
 ---
 ## Reseach Internships
 
-### **[Explainability in Graph Neural Networks for Jet Tagging - IIT Kanpur](https://github.com/pabulblues/Explainability-in-GNN-for-Jet-Tagging.git)** 
-*2026 Annual HEP Conference IITK, Manuscript under preparation*
+### **[Explainability in Graph Neural Networks for Jet Tagging – IIT Kanpur](/internship-jet-tagging/)** 
+*2026 Annual HEP Conference IITK · [arXiv:2604.25885](https://arxiv.org/abs/2604.25885v1)*
 
-I worked on developing GNN-based jet-tagging classifier and combined it with explainable AI tools such as GNNExplainer and Shapley values to examine how the model makes its decisions. This work showed that high-performing models do not need to remain black boxes, and that their predictions can stay physically consistent while revealing the jet substructure features they learn.
+I worked on developing GNN-based jet-tagging classifiers and combined them with explainable AI tools such as GNNExplainer and Shapley values to examine how the model makes its decisions. This work showed that high-performing models do not need to remain black boxes, and that their predictions can stay physically consistent while revealing the jet substructure features they learn.
 
 
-### **[Knowledge Distillation in Super-Resolution – Brown University](https://github.com/pabulblues/Super-Resolution-using-Knowledge-Distillation.git)**  
+### **[Knowledge Distillation in Super-Resolution – Brown University](/internship-super-resolution/)**  
 
 I worked on applying super-resolution and knowledge distillation techniques to jet classification tasks. My work involved designing CNN-based models for high and low resolution inputs, implementing ESRGAN super-resolution model, and preparing multi-resolution datasets. The goal is to compress models while maintaining performance and improving scalability on large physics datasets.
 
-### **[Multi-modal Semantic Communication for VQA – Intent Lab, IIT Kanpur]()**  
+### **[Multi-modal Semantic Communication for VQA – Intent Lab, IIT Kanpur](/internship-semantic-comm/)**  
 
 I worked on a semantic communication framework for visual question answering using MU-DeepSC. I extended the system with Vision Transformer-based encoders and evaluated performance under noisy channel conditions. My work showed improved accuracy when using transformer-based semantic extractors compared to CNN-based baselines.
 
