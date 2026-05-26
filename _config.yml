@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1870.png" # filename of avatar image placed in /images/ for the author profile section
+  avatar           : "IMG_1870.jpg" # filename of avatar image placed in /images/ for the author profile section
   name             : "Pahal Patel"
   pronouns         : # example: "she/her"  
   bio              : "Senior Year Undergraduate"
